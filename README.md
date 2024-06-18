@@ -10,9 +10,10 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/suraj-6699br/My-Projects.git](https://github.com/suraj-6699br/My-Projects.git)
 - 👨‍💻 Check out my portfolio website [https://suraj-portfolio-9.netlify.app/]
+- 💞️ I’m looking to collaborate on creating websites
+- 📫 How to reach me email at suraj.b.r.3636@gmail.com
 
 
-- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

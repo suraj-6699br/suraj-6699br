@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Numpy, Pandas**
 
 - 👨‍💻 All of my projects are available at [https://github.com/suraj-6699br/My-Projects.git](https://github.com/suraj-6699br/My-Projects.git)
-- 👨‍💻 Check out my portfolio website [https://suraj-portfolio-9.netlify.app/]
+- 👨‍💻 Check out my portfolio website [https://suraj-6699br.github.io/]
 - 💞️ I’m looking to collaborate on creating websites
 - 📫 How to reach me email at suraj.b.r.3636@gmail.com
 

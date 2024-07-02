@@ -6,7 +6,7 @@
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj-6699br&label=Profile%20views&color=0e75b6&style=flat" alt="suraj-6699br" /> </p>
 
-- 🌱 I’m currently learning ** Javascript**
+- 🌱 I’m currently learning ** Javascript and React**
 - 👨‍💻 Check out my portfolio website front & back-end [https://my-portfolio-website2nd.netlify.app/]
 - 👨‍💻 Check out my portfolio website front-end [https://suraj-6699br.github.io/]
 - 👨‍💻 All of my projects are available at [https://github.com/suraj-6699br/My-Projects.git](https://github.com/suraj-6699br/My-Projects.git)

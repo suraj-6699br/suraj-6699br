@@ -11,8 +11,8 @@
 - 👨‍💻 Check out my portfolio website front-end [https://suraj-6699br.github.io/]
 - 👨‍💻 All of my projects are available at [https://github.com/suraj-6699br/My-Projects.git](https://github.com/suraj-6699br/My-Projects.git)
 - 💞️ I’m looking to collaborate on creating websites
-- 📫 How to reach me email at suraj.b.r.3636@gmail.com
-
+- 📫 You can reach out to me through : https://linktr.ee/suraj_b_r
+ 
 
 
 <h3 align="left">Connect with me:</h3>

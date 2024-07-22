@@ -14,7 +14,7 @@
  
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> - 📫 You can reach out to me through : https://linktr.ee/suraj_b_r
 <p align="left">
 </p>
 

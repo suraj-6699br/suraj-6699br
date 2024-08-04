@@ -10,7 +10,6 @@
 - 👨‍💻 Check out my portfolio website front & back-end [https://my-portfolio-website2nd.netlify.app/]
 - 👨‍💻 All of my projects are available at [https://github.com/suraj-6699br/My-Projects.git](https://github.com/suraj-6699br/My-Projects.git)
 - 💞️ I’m looking to collaborate on creating websites
-- 📫 You can reach out to me through : https://linktr.ee/suraj_b_r
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
